@@ -1,0 +1,37 @@
+.navbar{
+    background-color:#BEF781;
+}
+.quem_somos{
+    background-color:rgb(73, 204, 150);
+    padding-bottom: 30px;
+}
+.margin{
+    padding-top: 30px;
+    padding-bottom: 30px ;
+}
+.ded_result{
+    margin-top: 26px;
+}
+
+#parceiros{
+    background: rgb(4, 6, 124);
+    padding-bottom: 30px;
+    color: white;
+    
+}
+.h3_parceiros{
+    padding-top: 30px;
+    color: white;
+}
+.h3_serviços{
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+.h2_img2{
+    padding-top: 30px;
+}
+.footer_color{
+    background-color: black;
+    color: white;
+}
+
